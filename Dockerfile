@@ -1,3 +1,3 @@
 FROM alpine
 
-CMD ["/bin/echo", "ololo"]
+CMD ["/bin/echo", "asd"]
