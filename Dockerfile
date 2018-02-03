@@ -1,3 +1,3 @@
-FROM scratch
-ADD rootfs.tar.xz /
-CMD ["/bin/sh"]
+FROM alpine
+
+CMD ["/bin/echo", "ololo"]
